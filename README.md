@@ -16,3 +16,7 @@ The UI supports the following interactions:
 7. Selecting one of the arrows in the list of arrows should highlight both of the entities it connects in the diagram as well as the list of entities.
 8. Arrows between entities should remain orthogonal. That is, they should join entities at right angles.
 9. The mouse's scrollwheel and Ctrl+] or Ctrl+[ should zoom the view of the entire diagram in 10% increments (in or out).
+10. Also can delete Entities and Arrows.
+11. Can create a new Entity by using Ctrl+e.
+12. Can create a new Arrow by using Ctrl+a.
+13. Can save you diagram by using Ctrl + s, it will create a screenshot of the board and save it.
