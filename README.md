@@ -20,3 +20,5 @@ The UI supports the following interactions:
 11. Can create a new Entity by using Ctrl+e.
 12. Can create a new Arrow by using Ctrl+a.
 13. Can save you diagram by using Ctrl + s, it will create a screenshot of the board and save it.
+
+![er1](https://cloud.githubusercontent.com/assets/10762987/20279829/1a504a4a-aa78-11e6-9f1c-49345580dd40.png)
